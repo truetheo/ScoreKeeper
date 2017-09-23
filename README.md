@@ -1,3 +1,3 @@
 # ScoreKeeper
 Android Udacity ScoreKeeper project
-first commit
+App allows to keep track of match details for two teams.
